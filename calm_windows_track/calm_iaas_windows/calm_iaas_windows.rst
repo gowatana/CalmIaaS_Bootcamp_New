@@ -340,9 +340,9 @@ Powershellを使用し、作成後の仮想マシンへのOS設定、ソフト�
     - **アプリケーションの名前** - *あなたのイニシャル*-Windows-IaaS
     - **VM_ADMIN** - パスワードフィールドにゲストOSのパスワードを設定します、ここでは **Nutanix/4u** を入力します。
 
-.. figure:: images/new_18_launch.png
-    :align: center
-    :alt: Blueprint Launch
+     .. figure:: images/new_18_launch.png
+         :align: center
+         :alt: Blueprint Launch
 
     ブループリントの起動
 
