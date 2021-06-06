@@ -63,7 +63,7 @@ Nutanix Calm IaaS Bootcampへようこそ!
 ++++++++++
 
 - ワークショップを以下のソフトウェアバージョンに更新しました。:
-    - AOS 5.16.x & PC 5.17.x
+    - AOS 5.18
 
 アジェンダ
 ++++++
@@ -74,7 +74,7 @@ Nutanix Calm IaaS Bootcampへようこそ!
     - Calm: Windows IaaSサービスの構築
 
 - 追加の演習
-    - Calm: DSL
+    - Calm: EscriptとTask Library
 
 - 任意の演習
     - Calm: 有効化
