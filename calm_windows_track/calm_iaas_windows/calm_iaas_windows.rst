@@ -271,10 +271,10 @@ Infrastructure-as-a-Service(IaaS)は、セルフサービスポータルを介�
 
 #. **③VM設定** に戻り、 **ドメイン設定** の **認証情報** のドロップダウンで **AD_ADMIN** を選択します。 
 
-　　　.. figure:: images/new_domain.png
+     .. figure:: images/new_domain.png
          :align: center
          :alt: Windows 2016 Domain
-
+  
          Windows 2016 Domain
 
 #. **保存** をクリックします。エラーが解消されます。
