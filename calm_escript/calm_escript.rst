@@ -63,7 +63,7 @@ Existing Machineサービスの使用
 
    .. figure:: images/app_service.png
 
-#. **VM** タブで、以下のフィールドを入力します。
+#. **仮想マシン** タブで、以下のフィールドを入力します。
 
    - **サービス名** - PC
    - **名前** - PrismCentral
@@ -76,7 +76,7 @@ Existing Machineサービスの使用
 
    上記構成の中には、新しく出てきた概念がいくつかあります。
 
-   - **クラウド** - 新しいVMをNutanixやパブリッククラウドプロバイダ上に作成するのではなく、既存のマシンにおいてスクリプト実行したり、APIコールを行うことを選択しています。入力に必要なのはマシンのIPアドレスだけで、この例ではPrism Centralです。ユースケースによっては、Ansible TowerやEra Serverのようなものを既存のマシンとして指定することもできます。
+   - **アカウント** - 新しいVMをNutanixやパブリッククラウドプロバイダ上に作成するのではなく、既存のマシンにおいてスクリプト実行したり、APIコールを行うことを選択しています。入力に必要なのはマシンのIPアドレスだけで、この例ではPrism Centralです。ユースケースによっては、Ansible TowerやEra Serverのようなものを既存のマシンとして指定することもできます。
 
    - **IP アドレス** - ここでは、Prism Centralに対してAPIコールを行う予定であり、CalmはPrism Centralで直接実行されるので、IPとしてlocalhostを入力します。Ansible TowerやEraに対して自動化を行う場合は、Localhostではなく、Ansible TowerやEra ServerのIPアドレスをこのフィールドに入力する必要があります。IP アドレスは変数で定義することもできます。
 
