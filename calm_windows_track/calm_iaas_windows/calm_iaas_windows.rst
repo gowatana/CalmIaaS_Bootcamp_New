@@ -622,7 +622,7 @@ Powershellを使用し、作成後の仮想マシンへのOS設定、ソフト�
 
 #. 左側のメニューから **Marketplace** をクリックします。
 
-#. **あなたのイニシャル_Windows_IaaS** ブループリントを選択し、マーケットプレイスから **起動** をクリックします。
+#. **あなたのイニシャル-Windows-IaaS** ブループリントを選択し、マーケットプレイスから **起動** をクリックします。
 
    .. figure:: images/mktlaunch.png
        :align: center
