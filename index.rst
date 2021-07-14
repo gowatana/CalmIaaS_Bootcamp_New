@@ -15,7 +15,7 @@
   :name: _calm_linux_track
   :hidden:
 
-  calm_linux_track/calm_iaas_linux/calm_iaas_linux
+  calm_iaas_linux/calm_iaas_linux
 
 .. toctree::
   :maxdepth: 2
@@ -23,7 +23,7 @@
   :name: _calm_windows_track
   :hidden:
 
-  calm_windows_track/calm_iaas_windows/calm_iaas_windows
+  calm_iaas_windows/calm_iaas_windows
 
 .. toctree::
   :maxdepth: 2
