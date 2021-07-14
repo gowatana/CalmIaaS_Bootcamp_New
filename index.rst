@@ -8,9 +8,8 @@
 
   calm_project/calm_project
 
-..
-  .. toctree::
-   :maxdepth: 2
+.. toctree::
+  :maxdepth: 2
   :caption: LinuxによるIaaSサービス
   :name: _calm_linux_track
   :hidden:
