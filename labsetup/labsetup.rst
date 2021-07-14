@@ -57,7 +57,7 @@ Calm: Projectを作成する
 
 #. 以下入力し、 **次へ** をクリックします。
 
-   - **名前** - Nutanix
+   - **名前** - **あなたのイニシャル** -Environment
    - **説明(オプション)** - 空白のままで構いません
 
    .. figure:: images/new_32_env_1.png
