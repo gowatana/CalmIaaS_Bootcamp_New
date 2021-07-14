@@ -2,7 +2,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Calm演習準備
+  :caption: プロジェクトの作成
   :name: _calm
   :hidden:
 
@@ -70,7 +70,7 @@ Nutanix Calm IaaS Bootcampへようこそ!
 ++++++
 
 - Nutanix Calm メインの演習
-    - Calm: ラボセットアップ
+    - Calm: プロジェクトの作成
     - Calm: Linux IaaSサービスの構築
     - Calm: Windows IaaSサービスの構築
 
