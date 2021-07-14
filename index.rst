@@ -6,7 +6,7 @@
   :name: _calm
   :hidden:
 
-  labsetup/labsetup
+  calm_project/calm_project
 
 ..
   .. toctree::
