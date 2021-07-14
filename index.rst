@@ -27,18 +27,11 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: 拡張性/柔軟性のための機能1
+  :caption: 拡張性/柔軟性のための機能群
   :name: _additional_calm_labs1
   :hidden:
 
   calm_runbook/calm_runbook
-
-.. toctree::
-  :maxdepth: 2
-  :caption: 拡張性/柔軟性のための機能2
-  :name: _additional_calm_labs2
-  :hidden:
-
   calm_escript/calm_escript
 
 .. toctree::
