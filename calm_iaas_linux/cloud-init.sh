@@ -4,6 +4,6 @@ users:
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
 chpasswd:
   list: |
-    centos:@@{vm_password}@@
+    centos:@@{VM_CENTOS.secret}@@
   expire: False
 ssh_pwauth:   true
