@@ -1,4 +1,4 @@
-.. _labsetup:
+.. _calm_project:
 
 ----------------------
 Calm: Projectを作成する
