@@ -32,6 +32,7 @@
   :hidden:
 
   calm_escript/calm_escript
+  calm_runbook/calm_runbook
 
 .. toctree::
   :maxdepth: 2
@@ -75,6 +76,7 @@ Nutanix Calm IaaS Bootcampへようこそ!
 
 - 追加の演習
     - Calm: EscriptとTask Library
+    - Calm: Runbook
 
 - 任意の演習
     - Calm: 有効化
