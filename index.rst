@@ -74,8 +74,8 @@ Nutanix Calm IaaS Bootcampへようこそ!
     - Calm: Windows IaaSサービスの構築
 
 - 追加の演習
-    - Calm: EscriptとTask Library
     - Calm: Runbook
+    - Calm: EscriptとTask Library
 
 - 任意の演習
     - Calm: 有効化
@@ -102,7 +102,7 @@ Nutanix Calm IaaS Bootcampへようこそ!
 
 .. note::
   
-  もしこれらがシングルノードクラスタ(SNC)であれば、ネットワークの部分に注意を払ってください。SNCは "通常の "3ノード/4ノードクラスタとは全く異なるセットアップと構成になっています。
+  もし演習環境がシングルノードクラスタ(SNC)であれば、ネットワークの部分に注意を払ってください。SNCは "通常の "3ノード/4ノードクラスタとは全く異なるセットアップと構成になっています。
 
 環境の詳細
 +++++++++++++++++++
@@ -224,25 +224,27 @@ Nutanix Hosted POC 環境には以下の方法で接続できます。:
 ユーザ名、パスワード
 ...........................
 
-PHX クラスタ:
-**Username:** PHX-POCxxx-User01 〜 PHX-POCxxx-User20, **Password:** *<講師から提供>*
+- PHX クラスタ:
+    - **Username:** PHX-POCxxx-User01 〜 PHX-POCxxx-User20
+    - **Password:** *<講師から提供>*
 
-RTP クラスタ:
-**Username:** RTP-POCxxx-User01 〜 RTP-POCxxx-User20, **Password:** *<講師から提供>*
+- RTP クラスタ:
+    - **Username:** RTP-POCxxx-User01 〜 RTP-POCxxx-User20
+    - **Password:** *<講師から提供>*
 
 Frame VDI
 .........
 
-ログイン: https://frame.nutanix.com/x/labs
+- ログイン: https://frame.nutanix.com/x/labs
 
 上記 **Username**, **Password** を入力
 
 Parallels VDI
 .................
 
-PHX クラスタ: https://xld-uswest1.nutanix.com
+- PHX クラスタ: https://xld-uswest1.nutanix.com
 
-RTP クラスタ: https://xld-useast1.nutanix.com
+- RTP クラスタ: https://xld-useast1.nutanix.com
 
 上記 **Username**, **Password** を入力
 
