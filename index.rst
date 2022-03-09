@@ -63,7 +63,9 @@ Nutanix Calm IaaS Bootcampへようこそ!
 ++++++++++
 
 - ワークショップを以下のソフトウェアバージョンに更新しました。:
-    - AOS 5.18
+    - AOS 5.20
+    - Prism Central pc.2021.9
+    - Calm 3.3.1
 
 アジェンダ
 ++++++
